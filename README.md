@@ -31,7 +31,7 @@ I take my first serious steps in the real IT world with the choice of Java as th
   - plus 5 years @Wroclaw University of Science and Technology, MSc in Automation and Robotics
 - 🏆 obtained VWRS , IRC5 , KRC4, CCNA, SEP, ME certificates
 - 📐 worked on sites, mostly Germany and Poland, on object-oriented programming with process optimalization
-- 🔄 I have always loved engineering, yet programming even more - time the change from robotics to IT
+- 🔄 I have always loved engineering, yet programming even more - time to change from robotics to IT
 
 ## 💯 Just me
 - 🔥 doing codewars, sololearn duels, udemy courses and many more after hours
@@ -39,10 +39,10 @@ I take my first serious steps in the real IT world with the choice of Java as th
 - 🎲 love to play board games...
 - 🎮 ...and PC/PS games...
 - 🏀 ...or some squash, basketball and football with friends
-- 📫 Currently based in Wrocław, Poland
+- 📫 currently based in Wrocław, Poland
   - 🏡 with Żary/Zielona Góra (lubuskie, Poland) always in my heart
 
 ## 🛑 Wait, before you go!
 Feel free to visit my Repositories (they are still being prepared, but I hope that I will add something soon) - all comments and critics are welcome.
 
-You can contact me by [my LinkedIn page](https://https://www.linkedin.com/in/konrad-wroblewski/) as well.
+**You can contact me by [my LinkedIn page](https://https://www.linkedin.com/in/konrad-wroblewski/) as well.**
