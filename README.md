@@ -40,7 +40,7 @@ I take my first serious steps in the real IT world with the choice of Java as th
 - 🎮 ...and PC/PS games...
 - 🏀 ...or some squash, basketball and football with friends
 - 📫 Currently based in Wrocław, Poland
-  - 🏡 with Żary/Zielona Góra (lubuskie, Poland) always in heart
+  - 🏡 with Żary/Zielona Góra (lubuskie, Poland) always in my heart
 
 ## 🛑 Wait, before you go!
 Feel free to visit my Repositories (they are still being prepared, but I hope that I will add something soon) - all comments and critics are welcome.
