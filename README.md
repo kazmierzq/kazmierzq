@@ -45,6 +45,6 @@ I take my first serious steps in the real IT world with the choice of Java as th
 ## 🛑 Wait, before you go!
 Feel free to visit my Repositories (they are still being prepared, but I hope that I will add something soon) - all comments and critics are welcome.
 
-**You can contact me by [my LinkedIn page](https://https://www.linkedin.com/in/konrad-wroblewski/) as well.** If you didn't like my Superman's photo, there is more serious profile picture 😉
+**You can contact me by [my LinkedIn page](https://https://www.linkedin.com/in/konrad-wroblewski/) as well.**
 
 Cheerio! ✌🖖
